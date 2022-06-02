@@ -1,0 +1,11 @@
+data/rlipp
+.DS_Store
+test/
+!config/**/test
+*__pycache__
+outputs/
+configs/
+*_all.txt
+*.pt
+data/cross_valid/
+.vscode

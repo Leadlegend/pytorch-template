@@ -1,0 +1,10 @@
+defaults:
+  - base_train
+
+lr: 0
+ckpt: ./
+epoch: -1
+device: cuda:1
+save_period: -1
+save_dir: no save_dir
+epoch_criterion: none

@@ -1,0 +1,6 @@
+defaults:
+  - data: train
+  - model: drugcell
+  - trainer: drugcell_train
+  - logger: base
+  - _self_

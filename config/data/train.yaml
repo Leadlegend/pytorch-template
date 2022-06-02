@@ -1,0 +1,7 @@
+defaults:
+  - train: base
+  - val: base
+  - base_train
+  - _self_
+
+test: null

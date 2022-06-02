@@ -1,0 +1,7 @@
+path: ../../data/test.txt
+batch_size: 4096
+shuffle: false
+pin: false
+lazy: false
+workers: 4
+label: True

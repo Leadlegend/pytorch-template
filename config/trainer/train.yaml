@@ -1,0 +1,11 @@
+defaults:
+  - base_train
+
+lr: 1e-3
+epoch: 300
+device: cuda:1
+save_dir: ../../ckpt/
+save_period: 5
+ckpt: null
+optimizer: sgd
+scheduler: None

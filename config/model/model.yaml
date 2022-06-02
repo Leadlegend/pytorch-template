@@ -1,0 +1,5 @@
+defaults:
+  - base_model
+  - _self_
+
+final_hid: 6

@@ -1,0 +1,6 @@
+path: ../../data/train.txt
+batch_size: 1024
+shuffle: false
+pin: false
+lazy: false
+workers: 4

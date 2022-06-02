@@ -1,0 +1,4 @@
+tqdm
+pytorch>=1.10
+hydra-core>=1.1
+
